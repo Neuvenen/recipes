@@ -1,0 +1,6 @@
+Some dummy ingredients:
+-ingredient1 50ml
+-ingredient2 100g
+
+Instructions:
+Mix ingredient1 with ingredient2 & voila!.
